@@ -37,22 +37,21 @@
 
 ### Interaction Demo
 
-#### Context Menu
-
-<p align="center">
-  <img src="./assets/interaction-menu.gif" width="420" />
-</p>
-
 #### Petting Reaction
 
 <p align="center">
-  <img src="./assets/petting.gif" width="420" />
+  <img src="./머리 쓰담_github.gif" width="420" />
 </p>
 
-#### Idle / Character Motion
+#### Emotion Interaction | 화남 → 풀림
+<p align="center">
+  <img src="./화남-풀림_github.gif" width="420" />
+</p>
+
+#### Feeding | 간식(쿠키)
 
 <p align="center">
-  <img src="./assets/idle.gif" width="420" />
+  <img src="./간식주기_github.gif" width="420" />
 </p>
 
 ### Features
