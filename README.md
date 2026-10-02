@@ -37,27 +37,32 @@
 
 ### Interaction Demo
 
-### Interaction Demo
-
-<p align="center">
-  <img src="./간식주기_github.gif" width="30%" />
-  <img src="./머리 쓰담_github.gif" width="30%" />
-  <img src="./화남-풀림_github.gif" width="30%" />
-</p>
-
-<p align="center">
-  Feeding Interaction &nbsp;&nbsp;&nbsp;&nbsp;
-  Petting Interaction &nbsp;&nbsp;&nbsp;&nbsp;
-  Emotion Interaction | 화남 → 풀림
-</p>
-### Features
-
-- Mouse interaction based character reactions
-- Context menu interaction
-- Petting interaction
-- Emotion and motion changes
-- Autonomous movement & idle behavior
-- Profile-driven multi-model architecture
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="./간식주기_github.gif" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="./머리 쓰담_github.gif" width="100%" />
+    </td>
+    <td align="center" width="33%">
+      <img src="./화남-풀림_github.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Feeding</b><br>
+      <sub>간식(쿠키) 주기</sub>
+    </td>
+    <td align="center">
+      <b>Petting</b>
+    </td>
+    <td align="center">
+      <b>Emotion Interaction</b><br>
+      <sub>화남 → 풀림</sub>
+    </td>
+  </tr>
+</table>
 
 ### Role
 
