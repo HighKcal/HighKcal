@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  AI · Systems · Security
+  AI · Systems
 </p>
 
 ---
