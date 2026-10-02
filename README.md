@@ -1,25 +1,28 @@
 <h1 align="center">Eungjae Kim</h1>
+<p align="center">
+  Soongsil University · AI Software
+</p>
+<br>
 
-⸻
+Project
 
-💻 Project
+Live2D Companion Engine
 
-Period	Project	Description	Stack & Role
-2026.09~ 2026.09	Live2D Companion Engine(Desktop Companion Engine)	Live2D 데스크톱 캐릭터 엔진사용자 상호작용 기반 행동 시스템	Python Live2D PySide6 OpenGLPlanning, System Design
+Live2D 데스크톱 캐릭터 엔진
+사용자의 상호작용에 반응하며 행동하는 데스크톱 캐릭터 시스템
 
-⸻
+2026.09
 
-⚒️ Tech Stack
+Role
+Planning System Design
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=c,python,git,github,linux&theme=light" />
-</div>
+Stack
+Python Live2D PySide6 OpenGL
 
-⸻
+<br>
 
-📊 Stats
+Tech Stack
 
-<div align="center">
-</div>
-
-⸻
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,linux&theme=dark" />
+</p>
