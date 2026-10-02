@@ -51,14 +51,15 @@
   </tr>
   <tr>
     <td align="center">
-      <b>Feeding</b><br>
+      <b>Contextual Interaction</b><br>
       <sub>간식(쿠키) 주기</sub>
     </td>
     <td align="center">
-      <b>Petting</b>
+      <b>Pointer-based Interaction</b><br>
+      <sub>Petting</sub>
     </td>
     <td align="center">
-      <b>Emotion Interaction</b><br>
+      <b>State Transition</b><br>
       <sub>화남 → 풀림</sub>
     </td>
   </tr>
