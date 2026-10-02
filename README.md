@@ -15,7 +15,12 @@
 소프트웨어의 동작 원리를 이해하고 직접 구현하는 과정을 좋아합니다.  
 현재 C와 Python을 기반으로 프로그래밍을 공부하며 AI와 시스템 분야를 탐색하고 있습니다.
 
-`Transformer & LLM` `System Programming` `Security` `Interactive Software`
+<p align="center">
+  <code>Transformer & LLM</code>
+  <code>System Programming</code>
+  <code>Security</code>
+  <code>Interactive Software</code>
+</p>
 
 ---
 
@@ -32,30 +37,30 @@
 
 ### Interaction Demo
 
-#### Petting
+#### Context Menu
 
 <p align="center">
-  <img src="./머리 쓰담_github.gif" width="480">
+  <img src="./assets/interaction-menu.gif" width="420" />
 </p>
 
-#### Emotion Reaction
+#### Petting Reaction
 
 <p align="center">
-  <img src="./화남-풀림_github(1).gif" width="480">
+  <img src="./assets/petting.gif" width="420" />
 </p>
 
-#### Feeding
+#### Idle / Character Motion
 
 <p align="center">
-  <img src="./간식주기_github(1).gif" width="480">
+  <img src="./assets/idle.gif" width="420" />
 </p>
 
 ### Features
 
 - Mouse interaction based character reactions
-- Petting & poke interactions
-- Emotion state transitions
-- Cookie feeding interaction
+- Context menu interaction
+- Petting interaction
+- Emotion and motion changes
 - Autonomous movement & idle behavior
 - Profile-driven multi-model architecture
 
