@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Eungjae Kim</h1>
 
-<!--
-**HighKcal/HighKcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⸻
 
-Here are some ideas to get you started:
+💻 Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Period	Project	Description	Stack & Role
+2026.09~ 2026.09	Live2D Companion Engine(Desktop Companion Engine)	Live2D 데스크톱 캐릭터 엔진사용자 상호작용 기반 행동 시스템	Python Live2D PySide6 OpenGLPlanning, System Design
+
+⸻
+
+⚒️ Tech Stack
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=c,python,git,github,linux&theme=light" />
+</div>
+
+⸻
+
+📊 Stats
+
+<div align="center">
+</div>
+
+⸻
