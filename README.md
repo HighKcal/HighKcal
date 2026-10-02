@@ -37,23 +37,19 @@
 
 ### Interaction Demo
 
-#### Petting Reaction
+### Interaction Demo
 
 <p align="center">
-  <img src="./머리 쓰담_github.gif" width="420" />
+  <img src="./간식주기_github.gif" width="30%" />
+  <img src="./머리 쓰담_github.gif" width="30%" />
+  <img src="./화남-풀림_github.gif" width="30%" />
 </p>
-
-#### Emotion Interaction | 화남 → 풀림
-<p align="center">
-  <img src="./화남-풀림_github.gif" width="420" />
-</p>
-
-#### Feeding | 간식(쿠키)
 
 <p align="center">
-  <img src="./간식주기_github.gif" width="420" />
+  Feeding Interaction &nbsp;&nbsp;&nbsp;&nbsp;
+  Petting Interaction &nbsp;&nbsp;&nbsp;&nbsp;
+  Emotion Interaction | 화남 → 풀림
 </p>
-
 ### Features
 
 - Mouse interaction based character reactions
