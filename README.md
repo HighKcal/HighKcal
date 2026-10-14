@@ -1,4 +1,4 @@
-<h1>Eungjae Kim <sub>HighKcal</sub></h1>
+<h1>Eungjae Kim 
 
 <p><strong>Soongsil University · AI Software</strong><br>
 AI · Systems · Security를 탐색하는 대학생 개발자입니다.</p>
