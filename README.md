@@ -43,6 +43,24 @@ C와 Python을 기반으로 직접 구현하고 실험하며 소프트웨어의 
 <table>
   <tr>
     <td>
+      <sub>임베디드 AI · 팀 협업과 해커톤 · 2026.10</sub>
+      <h3><a href="https://github.com/HighKcal/videx">VIDEX</a></h3>
+      <p>시각장애인의 일상생활·보행 지원을 목표로 한 팀 생일파티 (SSCC)의 프로젝트입니다.</p>
+      <p><strong>개인 기여:</strong> OpenCV 장애물 탐지 알고리즘 설계·구현·실험, 스테레오 거리 추정 예비 실험. 최종 시연은 단안 탐지를 사용했습니다.</p>
+      <p><sub>Track 2 — AI for Human Life · 1st Place (팀 수상)<br>
+        수상·개인 기여: 직접 참여 경험에 근거. 공개 코드: USB 영상 수신·표시 뷰어.
+      </sub></p>
+      <p><code>Python</code> <code>OpenCV</code> <code>Embedded AI</code><br>
+        <a href="https://github.com/HighKcal/videx">Team Repository</a> ·
+        <a href="https://github.com/HighKcal/videx/blob/main/proxy/README-viewer.md">공개 뷰어 문서</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
       <sub>인터랙티브 소프트웨어 · 개인 프로젝트</sub>
       <h3><a href="https://github.com/HighKcal/Live2D_Companion_Engine">Live2D Companion Engine</a></h3>
       <p>프로필 기반 Windows 데스크톱 캐릭터 엔진입니다. 쓰다듬기·간식·감정 반응을 캐릭터별 설정으로 연결합니다.</p>
@@ -55,24 +73,6 @@ C와 Python을 기반으로 직접 구현하고 실험하며 소프트웨어의 
       </sub></p>
       <p><code>Python</code> <code>Live2D</code> <code>PySide6</code> <code>OpenGL</code><br>
         <a href="https://github.com/HighKcal/Live2D_Companion_Engine">Code &amp; Design</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <sub>임베디드 AI · 팀 협업과 해커톤 · 2026.10</sub>
-      <h3><a href="https://github.com/HighKcal/videx">VIDEX</a></h3>
-      <p>시각장애인의 일상생활·보행 지원을 목표로 한 팀 생일파티 (SSCC)의 프로젝트입니다.</p>
-      <p><strong>개인 기여:</strong> OpenCV 장애물 탐지 알고리즘 설계·구현·실험, 스테레오 거리 추정 예비 실험. 최종 시연은 단안 탐지를 사용했습니다.</p>
-      <p><sub>Track 2 — AI for Human Life · 1st Place (팀 수상)<br>
-        수상·개인 기여: 직접 참여 경험에 근거. 공개 코드: USB 영상 수신·표시 뷰어.
-      </sub></p>
-      <p><code>Python</code> <code>OpenCV</code> <code>Embedded AI</code><br>
-        <a href="https://github.com/HighKcal/videx">Team Repository</a> ·
-        <a href="https://github.com/HighKcal/videx/blob/main/proxy/README-viewer.md">공개 뷰어 문서</a>
       </p>
     </td>
   </tr>
