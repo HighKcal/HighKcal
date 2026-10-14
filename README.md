@@ -26,9 +26,9 @@ C와 Python을 기반으로 직접 구현하고 실험하며 소프트웨어의 
         03 — Oracle 2M / Physical Mask + witness</sub>
       </p>
       <p>
-        <a href="./assets/temeong/profile/01_baseline_100k-board.gif"><img src="./assets/temeong/profile/01_baseline_100k-board.gif" width="240" alt="01 — Geometric Baseline 100K, Research Geometric top1, 게임 seed 100000" /></a>
-        <a href="./assets/temeong/profile/02_penalty_500k-board.gif"><img src="./assets/temeong/profile/02_penalty_500k-board.gif" width="240" alt="02 — Penalty −0.20 500K, Research Geometric top1, 게임 seed 100000" /></a>
-        <a href="./assets/temeong/profile/03_oracle_2m-board.gif"><img src="./assets/temeong/profile/03_oracle_2m-board.gif" width="240" alt="03 — Oracle 2M, Physical Mask + witness, 게임 seed 100000" /></a>
+        <a href="./assets/temeong/profile/01_baseline_100k-board.gif"><img src="./assets/temeong/profile/01_baseline_100k-board.gif" width="210" alt="01 — Geometric Baseline 100K, Research Geometric top1, 게임 seed 100000" /></a>
+        <a href="./assets/temeong/profile/02_penalty_500k-board.gif"><img src="./assets/temeong/profile/02_penalty_500k-board.gif" width="210" alt="02 — Penalty −0.20 500K, Research Geometric top1, 게임 seed 100000" /></a>
+        <a href="./assets/temeong/profile/03_oracle_2m-board.gif"><img src="./assets/temeong/profile/03_oracle_2m-board.gif" width="210" alt="03 — Oracle 2M, Physical Mask + witness, 게임 seed 100000" /></a>
       </p>
       <p><sub>순서대로 표시한 동일 게임 시드의 개별 실행 사례입니다. 일반적인 성능 우열을 입증하는 비교는 아닙니다.</sub></p>
       <p><code>Python</code> <code>PyTorch</code> <code>DDQN</code><br>
