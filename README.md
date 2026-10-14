@@ -9,7 +9,7 @@ C와 Python을 기반으로 직접 구현하고 실험하며 소프트웨어의 
 
 | Date | Award | Project |
 | --- | --- | --- |
-| 2026.10 | DevDay Exchange Community Hackathon: Seoul — Track 2 (AI for Human Life), **1st Place (팀 수상)** | [VIDEX](https://github.com/HighKcal/videx) |
+| 2026.10.9 | DevDay Exchange Community Hackathon: Seoul — Track 2 (AI for Human Life), **1st Place (팀 수상)** | [VIDEX](https://github.com/HighKcal/videx) |
 
 ## Featured Projects
 
